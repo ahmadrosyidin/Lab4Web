@@ -27,3 +27,37 @@
 ![image](https://user-images.githubusercontent.com/81254764/115263139-5e3db700-a15f-11eb-948e-b1855c8669be.png)
 
 3. Tambahkan kode CSS untuk membuat layoutnya.
+![image](https://user-images.githubusercontent.com/81254764/115265110-1b7cde80-a161-11eb-9498-c1e7a6d0813e.png)
+![image](https://user-images.githubusercontent.com/81254764/115265163-29326400-a161-11eb-9135-d27744526bca.png)
+
+4. Tuliskan perintah untuk mengatur navigasi
+![image](https://user-images.githubusercontent.com/81254764/115265517-80d0cf80-a161-11eb-911e-7b74ef5f565d.png)
+![image](https://user-images.githubusercontent.com/81254764/115265564-8cbc9180-a161-11eb-8e6e-c8be241ddc8d.png)
+
+5. Tambahkan kode html dan css seperti berikut untuk membuat hero panel
+![image](https://user-images.githubusercontent.com/81254764/115266399-5fbcae80-a162-11eb-947e-4af22c54d12f.png)
+![image](https://user-images.githubusercontent.com/81254764/115266616-8ed32000-a162-11eb-9679-c51a9ba5d36d.png)
+![image](https://user-images.githubusercontent.com/81254764/115266674-998db500-a162-11eb-8aa6-580c07031fa4.png)
+
+6. Tambahkan css float
+![image](https://user-images.githubusercontent.com/81254764/115267120-03a65a00-a163-11eb-9179-b714a50687c4.png)
+
+7. Ketikan perintah untuk menambahkan element lain dalam sidebar.
+![image](https://user-images.githubusercontent.com/81254764/115267524-76afd080-a163-11eb-9b00-6dc112cbde55.png)
+![image](https://user-images.githubusercontent.com/81254764/115267885-e2923900-a163-11eb-83c1-ea5e7eed22d9.png)
+![image](https://user-images.githubusercontent.com/81254764/115267946-f5a50900-a163-11eb-9d60-2b4c91deaad7.png)
+
+8. Mengatur footer
+![image](https://user-images.githubusercontent.com/81254764/115268518-8bd92f00-a164-11eb-8aee-8b4f636d32fe.png)
+![image](https://user-images.githubusercontent.com/81254764/115269274-554fe400-a165-11eb-8f2d-c9bac6cfd268.png)
+
+9. Menambahkan Elemen lainnya pada Main Content
+![image](https://user-images.githubusercontent.com/81254764/115270437-811f9980-a166-11eb-9fb3-d0cfe8095df0.png)
+![image](https://user-images.githubusercontent.com/81254764/115271027-1c187380-a167-11eb-96ca-12222c3daa0c.png)
+![image](https://user-images.githubusercontent.com/81254764/115271066-2470ae80-a167-11eb-92ea-a80d6da4d71f.png)
+![image](https://user-images.githubusercontent.com/81254764/115271148-3eaa8c80-a167-11eb-8f4a-f95fb278a935.png)
+
+10. Selanjutnya membuat content artikel.
+![image](https://user-images.githubusercontent.com/81254764/115271918-09eb0500-a168-11eb-8c4e-cfe39678c94f.png)
+![image](https://user-images.githubusercontent.com/81254764/115272198-546c8180-a168-11eb-9c7b-67f72829bfee.png)
+![image](https://user-images.githubusercontent.com/81254764/115272322-77973100-a168-11eb-8d38-9ea5437c7908.png)
